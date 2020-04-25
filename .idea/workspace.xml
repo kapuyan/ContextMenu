@@ -7,16 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf3b0e5-efd3-4277-9e1d-60934d9a9739" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/contextmenuscrollingtext/MainActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MaterialMe/app/src/main/java/com/example/android/materialme/MainActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MaterialMe/app/src/main/res/values-land/integers.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MaterialMe/app/src/main/res/values/integers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/contextmenuscrollingtext/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaterialMe/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialMe/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaterialMe/app/src/main/java/com/example/android/materialme/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialMe/app/src/main/java/com/example/android/materialme/DetailActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaterialMe/app/src/main/java/com/example/android/materialme/MainActivity.java" beforeDir="false" />
